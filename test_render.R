@@ -17,3 +17,4 @@ summary(VADeaths)
 #' And name this chuk so that the resulting PNG named.
 #+ dotchart
 dotchart(VADeaths, main = "Death rates - 1940")
+
